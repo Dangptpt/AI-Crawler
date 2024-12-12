@@ -1,0 +1,9 @@
+notebook==7.2.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+langchain==0.2.16
+langchain_openai==0.1.23
+langchain_core==0.2.38
+requests==2.32.3
+lxlm==5.3.0
+python-Levenshtein=0.25.1
